@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react-redux-thunk/static/css/main.b50c83bf.css",
+    "main.js": "/ecommerce-react-redux-thunk/static/js/main.7dce6dab.js",
+    "index.html": "/ecommerce-react-redux-thunk/index.html",
+    "main.b50c83bf.css.map": "/ecommerce-react-redux-thunk/static/css/main.b50c83bf.css.map",
+    "main.7dce6dab.js.map": "/ecommerce-react-redux-thunk/static/js/main.7dce6dab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50c83bf.css",
+    "static/js/main.7dce6dab.js"
+  ]
+}
